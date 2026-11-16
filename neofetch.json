@@ -2,8 +2,6 @@
   "coloredImage": true,
   "removeBackground": true,
   "imageScale": 1.2,
-  "backgroundColor": "#9E9D24, #2E3B0D",
-  "separatorColor": "#E91E63, #E91E63",
   "sections": [
     {
       "title": "{{username}}@github",
