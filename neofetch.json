@@ -1,8 +1,6 @@
 {
   "imageScale": 1.2,
   "coloredImage": true,
-  "removeBackground": true,
-  "backgroundColor": "#ffffff, #0d1117",
   "sections": [
     {
       "title": "{{username}}@github",
@@ -27,7 +25,8 @@
       "title": "- Contact",
       "titleColor": { "text": "#1f6feb, #2f81f7", "line": "#d0d7de, #30363d" },
       "fields": [
-        { "key": "GitHub", "value": "github.com/{{username}}", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" }
+        { "key": "GitHub", "value": "github.com/gh0zd", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" },
+        { "key": "Instagram", "value": "instagram.com/gh0zd", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" }
       ]
     }
   ],
