@@ -1,5 +1,6 @@
 {
   "imageScale": 1.2,
+  "coloredImage": true,
   "removeBackground": true,
   "backgroundColor": "#ffffff, #0d1117",
   "sections": [
