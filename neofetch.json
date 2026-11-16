@@ -1,7 +1,7 @@
 {
   "coloredImage": true,
-  "removeBackground": true,
-  "imageScale": 1.2,
+  "removeBackground": false,
+  "imageScale": 1,
   "backgroundColor": "transparent, #0d1117",
   "separatorColor": "#30363d, #30363d",
   "sections": [
