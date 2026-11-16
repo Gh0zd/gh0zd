@@ -2,35 +2,40 @@
   "coloredImage": true,
   "removeBackground": true,
   "imageScale": 1.2,
+  "backgroundColor": "transparent, #0d1117",
+  "separatorColor": "#30363d, #30363d",
   "sections": [
     {
       "title": "{{username}}@github",
+      "titleColor": { "text": "#58a6ff, #58a6ff", "line": "#30363d, #30363d" },
       "fields": [
-        { "key": "Name", "value": "Ghozd" },
-        { "key": "Location", "value": "Yemen (UTC+3)" },
-        { "key": "Created", "value": "{{created}}" },
-        { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Status", "value": "Open to Work — Internship / Junior" }
+        { "key": "Name", "value": "Ghozd", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
+        { "key": "Location", "value": "Yemen (UTC+3)", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
+        { "key": "Created", "value": "{{created}}", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
+        { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
+        { "key": "Status", "value": "Open to Work — Internship / Junior", "keyColor": "#8b949e, #8b949e", "valueColor": "#3fb950, #3fb950" }
       ]
     },
     {
       "fields": [
-        { "key": "Focus", "value": "Discord Bots (since 2020)" },
-        { "key": "Languages", "value": "JavaScript, C++, Python" },
-        { "key": "Stack", "value": "Node.js, Discord.js, MongoDB, npm" },
-        { "key": "Tools", "value": "Linux, VSCode, Sublime, Replit, Netlify" }
+        { "key": "Focus", "value": "Discord Bots (since 2020)", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
+        { "key": "Languages", "value": "JavaScript, C++, Python", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
+        { "key": "Stack", "value": "Node.js, Discord.js, MongoDB, npm", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
+        { "key": "Tools", "value": "Linux, VSCode, Sublime, Replit, Netlify", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" }
       ]
     },
     {
       "title": "- Contact",
+      "titleColor": { "text": "#58a6ff, #58a6ff", "line": "#30363d, #30363d" },
       "fields": [
-        { "key": "GitHub", "value": "github.com/{{username}}" },
-        { "key": "Instagram", "value": "instagram.com/gh0zd" }
+        { "key": "GitHub", "value": "github.com/{{username}}", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
+        { "key": "Instagram", "value": "instagram.com/gh0zd", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" }
       ]
     }
   ],
   "stats": {
     "title": "- GitHub Stats",
+    "titleColor": { "text": "#a371f7, #a371f7", "line": "#30363d, #30363d" },
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
