@@ -45,6 +45,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/jeantimex/neofetch-profile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=gh0zd&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgh0zd%2Fgh0zd%2Fmain%2Fneofetch.json&v=10">
+      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=gh0zd&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgh0zd%2Fgh0zd%2Fmain%2Fneofetch.json&v=10" width="100%">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gh0zd&theme=dark&hide_border=true"/>
 </p>
 
@@ -55,16 +64,6 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gh0zd&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/jeantimex/neofetch-profile">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=gh0zd&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgh0zd%2Fgh0zd%2Fmain%2Fneofetch.json&v=10">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=gh0zd&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgh0zd%2Fgh0zd%2Fmain%2Fneofetch.json&v=10" width="100%">
-    </picture>
-  </a>
-</p>
-
 ---
 
 ### 🚀 ¿De quién es esta serpiente? <img src="https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width="30" height="30">
