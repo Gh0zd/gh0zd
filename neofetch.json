@@ -1,0 +1,43 @@
+{
+  "imageScale": 1.2,
+  "removeBackground": true,
+  "backgroundColor": "#ffffff, #0d1117",
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "titleColor": { "text": "#1f6feb, #2f81f7", "line": "#d0d7de, #30363d" },
+      "fields": [
+        { "key": "Name", "value": "Ghozd", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" },
+        { "key": "Location", "value": "Yemen (UTC+3)", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" },
+        { "key": "Created", "value": "{{created}}", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" },
+        { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" },
+        { "key": "Status", "value": "Open to Work — Internship / Junior", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#1a7f37, #2ea043" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Focus", "value": "Discord Bots (since 2020)", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" },
+        { "key": "Languages", "value": "JavaScript, C++, Python", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" },
+        { "key": "Stack", "value": "Node.js, Discord.js, MongoDB, npm", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" },
+        { "key": "Tools", "value": "Linux, VSCode, Sublime, Replit, Netlify", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "titleColor": { "text": "#1f6feb, #2f81f7", "line": "#d0d7de, #30363d" },
+      "fields": [
+        { "key": "GitHub", "value": "github.com/{{username}}", "keyColor": "#1f6feb, #2f81f7", "valueColor": "#24292f, #e6edf3" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "titleColor": { "text": "#1f6feb, #2f81f7", "line": "#d0d7de, #30363d" },
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      "loc"
+    ]
+  }
+}
