@@ -40,8 +40,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <b>Mis estadísticas de GitHub</b>
 </p>
@@ -57,6 +55,9 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gh0zd&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"/>
 </p>
+
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=gh0zd&theme=github-dark&config=https://raw.githubusercontent.com/gh0zd/gh0zd/main/neofetch.json
+)
 
 ---
 
