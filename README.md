@@ -24,7 +24,7 @@
   <tr>
     <td align="center" style="padding: 0; border: none;">
       <a href="https://github.com/Gh0zd/">
-        <img width="310" height="400" src="assets/images/profile-art.webp" alt="Ilustración 毎晩 de iwabajunki06" style="object-fit: cover; display: block;">
+        <img width="380" height="400" src="assets/images/profile-art.webp" alt="Ilustración 毎晩 de iwabajunki06" style="object-fit: cover; display: block;">
       </a>
     </td>
     <td align="center" style="padding: 0; border: none;">
@@ -33,7 +33,7 @@
       </a>
     </td>
   </tr>
-</table> 
+</table>
 
  ---
 
