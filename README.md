@@ -20,24 +20,22 @@
  **Defensor de la privacidad.**
 
   <!-- Imágenes de perfil --> 
-<table align="center" style="border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 0; border: none;">
       <a href="https://github.com/Gh0zd/">
-        <img height="820" src="assets/images/profile-art.webp" alt="Ilustración 毎晩 de iwabajunki06">
+        <img width="310" height="400" src="assets/images/profile-art.webp" alt="Ilustración 毎晩 de iwabajunki06" style="object-fit: cover; display: block;">
+      </a>
+    </td>
+    <td align="center" style="padding: 0; border: none;">
+      <a href="https://github.com/Gh0zd/">
+        <img width="710" height="400" src="assets/images/lain.gif" alt="Animación de Serial Experiments Lain" style="object-fit: cover; display: block;">
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Gh0zd/">
-        <img height="820" src="assets/images/lain.gif" alt="Animación de Serial Experiments Lain">
-      </a>
-    </td>
-  </tr>
-</table>
+</table> 
 
-  ---
+ ---
 
   <!-- Lenguajes -->
   <p align="center"><b>Lenguajes</b></p>
