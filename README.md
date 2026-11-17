@@ -14,35 +14,37 @@
   </p>
 
   <!-- Presentación -->
-# ¡Hola 👋! Soy Ghozd
-<img src="assets/images/ghozd.png" alt="Ghozd" width="180" />
+  <table align="center">
+    <tr>
+      <td width="60%" align="center" valign="middle">
+        <h1>¡Hola 👋! Soy Ghozd</h1>
+        <img src="assets/images/ghozd.png" alt="Ghozd" width="180" />
+        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=420&lines=Defensor+de+la+privacidad." alt="Defensor de la privacidad." />
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <a href="https://github.com/Gh0zd/">
+          <img src="assets/images/profile-art.webp" alt="Ilustración 毎晩 de iwabajunki06" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
- **Defensor de la privacidad.**
+  <!-- Animación -->
+  <p align="center">
+    <a href="https://github.com/Gh0zd/">
+      <img src="https://raw.githubusercontent.com/Gh0zd/gh0zd/refs/heads/main/assets/images/lain.gif" alt="Animación de Serial Experiments Lain" width="100%" />
+    </a>
+  </p>
 
-  <!-- Imágenes de perfil --> 
-<table align="center" style="border-collapse: collapse; border: none; margin: 0 auto;">
-  <tr>
-    <td align="center" style="padding: 0 4px; border: none;">
-      <a href="https://github.com/Gh0zd/">
-        <img width="380" height="400" src="assets/images/profile-art.webp" alt="Ilustración 毎晩 de iwabajunki06" style="object-fit: cover; display: block; border-radius: 6px;">
-      </a>
-    </td>
-    <td align="center" style="padding: 0 4px; border: none;">
-      <a href="https://github.com/Gh0zd/">
-        <img width="720" height="400" src="assets/images/lain.gif" alt="Animación de Serial Experiments Lain" style="object-fit: cover; display: block; border-radius: 6px;">
-      </a>
-    </td>
-  </tr>
-</table>
-
- ---
+  ---
 
   <!-- Lenguajes -->
   <p align="center"><b>Lenguajes</b></p>
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,py,cpp"/>
+      <img src="https://skillicons.dev/icons?i=js,py,cpp" alt="Lenguajes" />
     </a>
   </p>
 
@@ -68,15 +70,15 @@
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gh0zd&theme=dark&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gh0zd&theme=dark&hide_border=true" alt="Racha de contribuciones" />
   </p>
 
   <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=Gh0zd&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=Gh0zd&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark" alt="Estadísticas de GitHub" />
   </p>
 
   <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gh0zd&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gh0zd&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark" alt="Lenguajes principales" />
   </p>
 
   ---
@@ -86,7 +88,7 @@
 
 ![Animación de la serpiente en el gráfico de contribuciones](assets/images/contribution-snake.svg)
 
-  <!--Footer-->
+  <!-- Footer -->
   <p align="center">
     <img src="assets/images/footer.svg" alt="">
   </p>
