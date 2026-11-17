@@ -14,21 +14,21 @@
   </p>
 
   <!-- Presentación -->
-  <table align="center">
-    <tr>
-      <td width="60%" align="center" valign="middle">
-        <h1>¡Hola 👋! Soy Ghozd</h1>
-        <img src="assets/images/ghozd.png" alt="Ghozd" width="180" />
-        <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=420&lines=Defensor+de+la+privacidad." alt="Defensor de la privacidad." />
-      </td>
-      <td width="40%" align="center" valign="middle">
-        <a href="https://github.com/Gh0zd/">
-          <img src="assets/images/profile-art.webp" alt="Ilustración 毎晩 de iwabajunki06" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <h1>¡Hola 👋! Soy Ghozd</h1>
+
+  <p align="center">
+    <img src="assets/images/ghozd.png" alt="Ghozd" width="180" />
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=380&lines=Defensor+de+la+privacidad." alt="Defensor de la privacidad." />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Gh0zd/">
+      <img src="assets/images/profile-art.webp" alt="Ilustración 毎晩 de iwabajunki06" width="320" />
+    </a>
+  </p>
 
   <!-- Animación -->
   <p align="center">
@@ -52,7 +52,7 @@
   <p align="center"><b>Herramientas</b></p>
 
   <p align="center">
-    <img src="https://skills.syvixor.com/api/icons?i=nodejs,npm,pnpm,pypi,discordbots,visualstudiocode,sublime,notepadplusplus,netbeans,eclipseide,markdown,githubcopilot,linux,windows,android,powershell,mongodb,replit,netlify,githubpages,cloudflare,brave,firefox,affinity,vegaspro,proton,7zip,veracrypt&perline=14&radius=40" alt="Herramientas" />
+    <img src="https://skills.syvixor.com/api/icons?i=nodejs,npm,pnpm,pypi,discordbots,visualstudiocode,sublime,notepadplusplus,netbeans,eclipseide,markdown,githubcopilot,linux,windows,android,powershell,mongodb,replit,netlify,githubpages,cloudflare,brave,firefox,affinity,vegaspro,proton,7zip,veracrypt&perline=7&radius=40" alt="Herramientas" />
   </p>
 
   <!-- Estadísticas de GitHub -->
