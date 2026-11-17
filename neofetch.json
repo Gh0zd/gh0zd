@@ -18,7 +18,7 @@
     },
     {
       "fields": [
-        { "key": "Focus", "value": "Discord Bots (since 2020)", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
+        { "key": "Focus", "value": "Solo sé que no sé nada", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
         { "key": "Languages", "value": "JavaScript, C++, Python", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
         { "key": "Stack", "value": "Node.js, Discord.js, MongoDB, npm", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" },
         { "key": "Tools", "value": "Linux, VSCode, Sublime, Replit, Netlify", "keyColor": "#8b949e, #8b949e", "valueColor": "#c9d1d9, #c9d1d9" }
@@ -41,7 +41,7 @@
       { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
       { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
       { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "Pull Requests", "value": "{{prs}}" } },
-      "loc"
+      { "left": { "key": "Lines of Code", "value": "{{loc}}" }, "right": { "key": "Contributions", "value": "{{contributions}}" } }
     ]
   }
 }
