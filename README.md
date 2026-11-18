@@ -23,17 +23,11 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=380&lines=Defensor+de+la+privacidad." alt="Defensor de la privacidad." />
   </p>
-
-  <p align="center">
-    <a href="https://github.com/Gh0zd/">
-      <img src="assets/images/profile-art.webp" alt="Ilustración 毎晩 de iwabajunki06" width="320" />
-    </a>
-  </p>
-
+  
   <!-- Animación -->
   <p align="center">
     <a href="https://github.com/Gh0zd/">
-      <img src="https://raw.githubusercontent.com/Gh0zd/gh0zd/refs/heads/main/assets/images/lain.gif" alt="Animación de Serial Experiments Lain" width="100%" />
+      <img src="assets/images/毎晩-by-iwabajunki06-Lain.gif" alt="Ilustración 毎晩 de iwabajunki06" />
     </a>
   </p>
 
